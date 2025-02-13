@@ -41,7 +41,7 @@ wireResistence = maxRes                     # Ohms/m (from dataSheet)
 zInitialValueCoilDiameter = 80 # Initial value for the function that calculates the precise diameter
 
 
-zCoilCurrent = 0.5             # Amperes
+zCoilCurrent = 0.3             # Amperes
 zLoopsInEachEvenLayer = 10     # The number of loops in each layer
 zEvenLayers = 7                # The evenlayers always have to be equal to oddLayers or oddLayers + 1
 zOddLayers = 6
@@ -50,7 +50,7 @@ zColor = 'k'
 
 # y Second Coil configuration
 
-yCoilCurrent = 0.5             # Amperes
+yCoilCurrent = 0.3             # Amperes
 yLoopsInEachEvenLayer = 5      # The number of loops in each layer
 yEvenLayers = 7                # The evenlayers always have to be oddLayers + 1 or equal oddLayers
 yOddLayers = 6
@@ -59,7 +59,7 @@ yColor = 'k'
 
 # x Third Coil configuration
 
-xCoilCurrent = 0.5             # Amperes
+xCoilCurrent = 0.3             # Amperes
 xLoopsInEachEvenLayer = 6      # The number of loops in each layer
 xEvenLayers = 7                # The evenlayers always have to be oddLayers + 1 or equal oddLayers
 xOddLayers = 6
